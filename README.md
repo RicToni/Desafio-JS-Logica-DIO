@@ -24,3 +24,5 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 
 **Ao final deve se exibir uma mensagem:**
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
+
+**Saliento que devido a extensão do desafio optei por utilizar o método de laços de repetição switch case, podendo também ser usado o if e else if.**
